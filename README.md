@@ -1,4 +1,4 @@
-# Harris Corner Detection 课程作业（最终版）
+# Harris Corner Detection 课程作业
 
 本项目是计算机视觉课程作业，围绕 Harris 角点检测完成了 4 组实验：
 
