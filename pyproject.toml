@@ -1,0 +1,21 @@
+[project]
+name = "harris-corner"
+version = "0.1.0"
+authors = [
+    { name = "Zylona", email = "zylooona@gmail.com"}
+]
+description = "Harris corner detection experiment"
+requires-python = ">=3.12"
+
+dependencies = [
+    "opencv-python",
+    "numpy",
+    "matplotlib",
+    "tqdm",
+    "scikit-image"
+]
+[tool.uv]
+dev-dependencies = [
+    "ipython",
+    "jupyter",
+]

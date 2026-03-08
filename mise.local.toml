@@ -1,0 +1,2 @@
+[env]
+_.python.venv = ".venv"                    # 仅指向 .venv（相对路径）

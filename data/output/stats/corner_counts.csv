@@ -1,0 +1,7 @@
+image,manual_nms,opencv_threshold_only,opencv_nms
+baboon.jpg,3060,48464,4083
+box.png,529,8959,619
+box_in_scene.png,799,11721,826
+building.jpg,1553,22991,1636
+chessboard.png,303,4525,336
+graf1.png,852,13420,975
